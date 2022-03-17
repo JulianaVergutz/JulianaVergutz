@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @JulianaVergutz
-- 👀 I’m interested in acompanhar os trabalhos dos meus alunos.
-- 🌱 I’m currently learning a trabalhar com as aulas do EduTch
-- 💞️ I’m looking to collaborate on com a aprendizagem de meus alunos.
+- 👋 Olá, meu nome é Juliana Esteves da Silva Vergutz
+- 👀 Sou professora no Colégio estadual Vicente Leporace e no Colégio Estadual do Campo Palmital.
+- 🌱 Minha formação é em Licenciatura Matemática, e no momento estou lecionando a disciplina de Pensamento Computacional.
+- 💞️ Meu objetivo é colaborar com a aprendizagem de meus alunos.
 
 
 <!---
